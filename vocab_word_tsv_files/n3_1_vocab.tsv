@@ -1,0 +1,101 @@
+vocab_word	definition	tag
+人気	「にんき」: popularity; popular feeling; business conditions	n3_vocab
+中心	「ちゅうしん」: center; centre; middle	n3_vocab
+方法	「ほうほう」: method; process; manner	n3_vocab
+全国	「ぜんこく」: countrywide; nationwide; whole country	n3_vocab
+関連	「かんれん」: relation; connection; relevance	n3_vocab
+情報	「じょうほう」: information; news; intelligence	n3_vocab
+海外	「かいがい」: foreign; abroad; overseas	n3_vocab
+記事	「きじ」: article; news story; report	n3_vocab
+機能	「きのう」: function; facility; faculty	n3_vocab
+現在	「げんざい」: now; current; present	n3_vocab
+部分	「ぶぶん」: portion; section; part	n3_vocab
+可能	「かのう」: potential; possible; practicable	n3_vocab
+内容	「ないよう」: subject; contents; matter	n3_vocab
+使用	「しよう」: use; application; employment	n3_vocab
+基本	「きほん」: foundation; basis; standard	n3_vocab
+価格	「かかく」: price; value; cost	n3_vocab
+商品	「しょうひん」: commodity; article of commerce; goods	n3_vocab
+無料	「むりょう」: free; no charge	n3_vocab
+地域	「ちいき」: area; region	n3_vocab
+個人	「こじん」: individual; private person; personal	n3_vocab
+定期	「ていき」: fixed period; fixed term; regular	n3_vocab
+管理	「かんり」: control; management (e.g. of a business)	n3_vocab
+確認	「かくにん」: confirmation; verification; validation	n3_vocab
+一般	「いっぱん」: general; universal; ordinary	n3_vocab
+期間	「きかん」: period; term; interval	n3_vocab
+健康	「けんこう」: health; sound; wholesome	n3_vocab
+代金	「だいきん」: price; payment; cost	n3_vocab
+位置	「いち」: place; situation; position	n3_vocab
+販売	「はんばい」: sales; selling; marketing	n3_vocab
+注文	「ちゅうもん」: order; request	n3_vocab
+交換	「こうかん」: exchange; interchange; switching	n3_vocab
+投票	「とうひょう」: voting; poll	n3_vocab
+希望	「きぼう」: hope; wish; aspiration	n3_vocab
+重要	「じゅうよう」: important; momentous; essential	n3_vocab
+作品	「さくひん」: work (e.g. book, film, composition, etc.); opus; performance	n3_vocab
+需要	「じゅよう」: demand; request	n3_vocab
+自然	「しぜん」: nature; natural; spontaneous	n3_vocab
+結果	「けっか」: result; consequence; outcome	n3_vocab
+保証	「ほしょう」: guarantee; security; assurance	n3_vocab
+条件	「じょうけん」: condition; conditions; term	n3_vocab
+非常	「ひじょう」: emergency; extraordinary; unusual	n3_vocab
+代表	「だいひょう」: representative; representation; delegation	n3_vocab
+完全	「かんぜん」: perfection; completeness	n3_vocab
+活動	「かつどう」: action; activity; movie (esp. during the silent movie period)	n3_vocab
+完成	「かんせい」: complete; completion; perfection	n3_vocab
+最高	「さいこう」: highest; supreme; the most	n3_vocab
+助手	「じょしゅ」: helper; helpmeet; assistant	n3_vocab
+文字	「もじ」: letter (of alphabet); character; literal	n3_vocab
+直接	「ちょくせつ」: direct; immediate; personal	n3_vocab
+不可	「ふか」: wrong; bad; improper	n3_vocab
+地方	「ちほう」: district; region; area	n3_vocab
+中古	「ちゅうこ」: used; second-hand; old	n3_vocab
+女子	「じょし」: woman; girl	n3_vocab
+営業	「えいぎょう」: business; trade; sales	n3_vocab
+参考	「さんこう」: reference; consultation	n3_vocab
+日本	「にほん」: Japan	n3_vocab
+選択	「せんたく」: selection; choice; option	n3_vocab
+案内	「あんない」: information; guidance; leading	n3_vocab
+参加	「さんか」: participation	n3_vocab
+主要	「しゅよう」: chief; main; principal	n3_vocab
+身体	「からだ」: body  ; torso; trunk	n3_vocab
+多少	「たしょう」: more or less; somewhat; a little	n3_vocab
+成功	「せいこう」: success; hit	n3_vocab
+対象	「たいしょう」: target; object (of worship, study, etc.); subject (of taxation, etc.)	n3_vocab
+変更	「へんこう」: change; modification; alteration	n3_vocab
+環境	「かんきょう」: environment; circumstance	n3_vocab
+輸入	「ゆにゅう」: importation; import; introduction	n3_vocab
+開始	「かいし」: start; commencement; beginning	n3_vocab
+企業	「きぎょう」: enterprise; undertaking; corporation	n3_vocab
+電子	「でんし」: electron; (esp. as a prefix) electronic; electronics	n3_vocab
+製品	「せいひん」: manufactured goods; finished goods; product	n3_vocab
+会員	「かいいん」: member; the membership	n3_vocab
+要求	「ようきゅう」: demand; firm request; requisition	n3_vocab
+人生	「じんせい」: (human) life (i.e. conception to death)	n3_vocab
+作業	「さぎょう」: work; operation; manufacturing	n3_vocab
+少女	「しょうじょ」: little girl; maiden; young lady	n3_vocab
+存在	「そんざい」: existence; being	n3_vocab
+家具	「かぐ」: furniture	n3_vocab
+国家	「こっか」: state; country; nation	n3_vocab
+自動	「じどう」: automatic; self-motion; intransitive verb	n3_vocab
+食品	「しょくひん」: food; food products; foodstuffs	n3_vocab
+中央	「ちゅうおう」: centre; center; middle	n3_vocab
+感じ	「かんじ」: feeling; sense; impression	n3_vocab
+状況	「じょうきょう」: state of affairs (around you); situation; circumstances	n3_vocab
+記念	「きねん」: commemoration; celebration; honoring the memory of something	n3_vocab
+政府	「せいふ」: government; administration	n3_vocab
+分析	「ぶんせき」: analysis	n3_vocab
+天然	「てんねん」: nature; spontaneity  ; natural airhead	n3_vocab
+市場	「いちば」: (town) market; (the) marketplace	n3_vocab
+通信	「つうしん」: correspondence; communication; transmission	n3_vocab
+状態	「じょうたい」: current status; condition; situation	n3_vocab
+誕生	「たんじょう」: birth; creation; formation	n3_vocab
+能力	「のうりょく」: ability; faculty	n3_vocab
+程度	「ていど」: degree; amount; grade	n3_vocab
+地区	「ちく」: district; section; sector	n3_vocab
+相談	「そうだん」: consultation; discussion	n3_vocab
+なお	furthermore; still; yet	n3_vocab
+注目	「ちゅうもく」: notice; attention; observation	n3_vocab
+目的	「もくてき」: purpose; goal; aim	n3_vocab
+考え	「かんがえ」: thinking; thought; view	n3_vocab
